@@ -1,0 +1,11 @@
+<url>
+
+
+<tipo>://<usuario>:<senha>@<host>/<banco>?<parametros>
+
+tipo banco = 
+usuário = 
+senha = 
+host = 
+porta = 
+nome do banco = 

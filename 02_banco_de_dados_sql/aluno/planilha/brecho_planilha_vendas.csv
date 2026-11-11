@@ -1,0 +1,18 @@
+pedido,data_pedido,cliente_nome,cliente_email,cliente_telefones,cliente_cidade_uf,produto,categoria,tamanho,preco,quantidade
+1001,2026-10-02,Ana Souza,ana.souza@email.com,51 99911-2233; 51 98822-3344,Porto Alegre/RS,Jaqueta jeans vintage,Casacos,M,89.90,1
+1001,2026-10-02,Ana Souza,ana.souza@email.com,51 99911-2233; 51 98822-3344,Porto Alegre/RS,Óculos retrô,Acessórios,U,39.90,1
+1002,2026-10-05,Bruno Lima,bruno.lima@email.com,51 99733-4455,Canoas/RS,Tênis Converse All Star,Calçados,38,119.90,1
+1003,2026-10-09,Carla Mendes,carla.m@email.com,11 98123-4567,São Paulo/SP,Vestido floral midi,Vestidos,P,74.90,1
+1003,2026-10-09,Carla Mendes,carla.m@email.com,11 98123-4567,São Paulo/SP,Bolsa de couro caramelo,Acessórios,U,139.90,1
+1003,2026-10-09,Carla Mendes,carla.m@email.com,11 98123-4567,São Paulo/SP,Camiseta básica branca,Camisetas,M,29.90,2
+1004,2026-10-15,Ana Souza,ana.souza@email.com,51 99911-2233; 51 98822-3344,Porto Alegre/RS,Camiseta banda anos 90,Camisetas,G,49.90,1
+1005,2026-10-20,Diego Rocha,diego.rocha@email.com,,Porto Alegre/RS,Casaco de lã xadrez,Casacos,G,129.90,1
+1005,2026-10-20,Diego Rocha,diego.rocha@email.com,,Porto Alegre/RS,Camiseta básica branca,Camisetas,M,29.90,1
+1006,2026-10-28,Elisa Kato,elisa.kato@email.com,41 99654-3210; 41 3322-1100,Curitiba/PR,Bota de couro marrom,Calçados,37,159.90,1
+1006,2026-10-28,Elisa Kato,elisa.kato@email.com,41 99654-3210; 41 3322-1100,Curitiba/PR,Vestido preto longo,Vestidos,M,99.90,1
+1007,2026-11-02,Bruno Lima,bruno.lima@email.com,51 99733-4455,canoas/rs,Camiseta básica branca,Camisetas,M,29.90,1
+1008,2026-11-05,Fábio Nunes,fabio.n@email.com,51 99100-2030,Novo Hamburgo/RS,Camiseta básica branca,Camisetas,M,34.90,1
+1008,2026-11-05,Fábio Nunes,fabio.n@email.com,51 99100-2030,Novo Hamburgo/RS,Óculos retrô,Acessórios,U,39.90,1
+1009,2026-11-08,Carla Mendes,carla.m@email.com,11 98123-4567,São Paulo/SP,Casaco de lã xadrez,Casacos,G,129.90,1
+1010,2026-11-10,Elisa Kato,elisa.kato@email.com,41 99654-3210; 41 3322-1100,Curitiba/PR,Bolsa de couro caramelo,Acessórios,U,139.90,1
+1010,2026-11-10,Elisa Kato,elisa.kato@email.com,41 99654-3210; 41 3322-1100,Curitiba/PR,Camiseta básica branca,Camisetas,M,34.90,1
