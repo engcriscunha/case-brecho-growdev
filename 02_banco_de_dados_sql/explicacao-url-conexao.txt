@@ -1,11 +1,10 @@
-<url>
-
+postgresql://neondb_owner:npg_ECc0DtQWs9MB@ep-jolly-cell-bcivwma9.c-16.us-east-1.aws.neon.tech/neondb
 
 <tipo>://<usuario>:<senha>@<host>/<banco>?<parametros>
 
-tipo banco = 
-usuário = 
-senha = 
-host = 
-porta = 
-nome do banco = 
+tipo = PostgreSQL
+user = neondb_owner
+password = npg_ECc0DtQWs9MB
+host = ep-jolly-cell-bcivwma9.c-16.us-east-1.aws.neon.tech
+porta = 5432
+banco = neondb
